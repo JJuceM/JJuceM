@@ -1,4 +1,3 @@
-🍊 JJuceM / README.md
 ## Hi there 👋 I'm Frontend Engineer, Web Developer
 <img src="https://img.shields.io/badge/dbqlsl1201@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/dbqlsl1209@gmail.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
